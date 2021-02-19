@@ -6,9 +6,10 @@
   "author": "Alebak <alebak@ximware.com> (https://www.ximware.com/)",
   "license": "MIT",
   "scripts": {
-    "commit": "cz"
+    "release": "standard-version"
   },
   "devDependencies": {
-    "conventional-changelog": "3.1.24"
+    "conventional-changelog": "3.1.24",
+    "standard-version": "9.1.1"
   }
 }
