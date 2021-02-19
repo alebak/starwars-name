@@ -1,0 +1,14 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:alebak/starwars-name.git",
+  "author": "Alebak <alebak@ximware.com> (https://www.ximware.com/)",
+  "license": "MIT",
+  "scripts": {
+    "commit": "cz"
+  },
+  "devDependencies": {
+    "conventional-changelog": "3.1.24"
+  }
+}
