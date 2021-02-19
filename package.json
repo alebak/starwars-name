@@ -14,10 +14,5 @@
     "conventional-changelog": "3.1.24",
     "husky": "5.0.9",
     "standard-version": "9.1.1"
-  },
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-    }
   }
 }
