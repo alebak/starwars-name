@@ -409,6 +409,17 @@
   dependencies:
     "q" "^1.5.1"
 
+"conventional-changelog-cli@2.1.1":
+  "integrity" "sha512-xMGQdKJ+4XFDDgfX5aK7UNFduvJMbvF5BB+g0OdVhA3rYdYyhctrIE2Al+WYdZeKTdg9YzMWF2iFPT8MupIwng=="
+  "resolved" "https://registry.npmjs.org/conventional-changelog-cli/-/conventional-changelog-cli-2.1.1.tgz"
+  "version" "2.1.1"
+  dependencies:
+    "add-stream" "^1.0.0"
+    "conventional-changelog" "^3.1.24"
+    "lodash" "^4.17.15"
+    "meow" "^8.0.0"
+    "tempfile" "^3.0.0"
+
 "conventional-changelog-codemirror@^2.0.8":
   "integrity" "sha512-z5DAsn3uj1Vfp7po3gpt2Boc+Bdwmw2++ZHa5Ak9k0UKsYAO5mH1UBTN0qSCuJZREIhX6WU4E1p3IW2oRCNzQw=="
   "resolved" "https://registry.npmjs.org/conventional-changelog-codemirror/-/conventional-changelog-codemirror-2.0.8.tgz"
@@ -508,7 +519,7 @@
     "split" "^1.0.0"
     "through2" "^4.0.0"
 
-"conventional-changelog@3.1.24":
+"conventional-changelog@^3.1.24", "conventional-changelog@3.1.24":
   "integrity" "sha512-ed6k8PO00UVvhExYohroVPXcOJ/K1N0/drJHx/faTH37OIZthlecuLIRX/T6uOp682CAoVoFpu+sSEaeuH6Asg=="
   "resolved" "https://registry.npmjs.org/conventional-changelog/-/conventional-changelog-3.1.24.tgz"
   "version" "3.1.24"
@@ -2443,6 +2454,19 @@
   dependencies:
     "has-flag" "^4.0.0"
 
+"temp-dir@^2.0.0":
+  "integrity" "sha512-aoBAniQmmwtcKp/7BzsH8Cxzv8OL736p7v1ihGb5e9DJ9kTwGWHrQrVB5+lfVDzfGrdRzXch+ig7LHaY1JTOrg=="
+  "resolved" "https://registry.npmjs.org/temp-dir/-/temp-dir-2.0.0.tgz"
+  "version" "2.0.0"
+
+"tempfile@^3.0.0":
+  "integrity" "sha512-uNFCg478XovRi85iD42egu+eSFUmmka750Jy7L5tfHI5hQKKtbPnxaSaXAbBqCDYrw3wx4tXjKwci4/QmsZJxw=="
+  "resolved" "https://registry.npmjs.org/tempfile/-/tempfile-3.0.0.tgz"
+  "version" "3.0.0"
+  dependencies:
+    "temp-dir" "^2.0.0"
+    "uuid" "^3.3.2"
+
 "text-extensions@^1.0.0":
   "integrity" "sha512-wiBrwC1EhBelW12Zy26JeOUkQ5mRu+5o8rpsJk5+2t+Y5vE7e842qtZDQ2g1NpX/29HdyFeJ4nSIhI47ENSxlQ=="
   "resolved" "https://registry.npmjs.org/text-extensions/-/text-extensions-1.9.0.tgz"
@@ -2582,6 +2606,11 @@
   "integrity" "sha1-RQ1Nyfpw3nMnYvvS1KKJgUGaDM8="
   "resolved" "https://registry.npmjs.org/util-deprecate/-/util-deprecate-1.0.2.tgz"
   "version" "1.0.2"
+
+"uuid@^3.3.2":
+  "integrity" "sha512-HjSDRw6gZE5JMggctHBcjVak08+KEVhSIiDzFnT9S9aegmp85S/bReBVTb4QTFaRNptJ9kuYaNhnbNEOkbKb/A=="
+  "resolved" "https://registry.npmjs.org/uuid/-/uuid-3.4.0.tgz"
+  "version" "3.4.0"
 
 "validate-npm-package-license@^3.0.1":
   "integrity" "sha512-DpKm2Ui/xN7/HQKCtpZxoRWBhZ9Z0kqtygG8XCgNQ8ZlDnxuQmWhj566j8fN4Cu3/JmbhsDo7fcAJq4s9h27Ew=="

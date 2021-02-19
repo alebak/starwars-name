@@ -7,11 +7,14 @@
   "license": "MIT",
   "scripts": {
     "commit": "cz",
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
+    "changelog-reset": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
     "release": "standard-version"
   },
   "devDependencies": {
     "commitizen": "4.2.3",
     "conventional-changelog": "3.1.24",
+    "conventional-changelog-cli": "2.1.1",
     "cz-conventional-changelog": "3.2.0",
     "standard-version": "9.1.1"
   },

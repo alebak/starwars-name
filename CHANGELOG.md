@@ -1,7 +1,3 @@
-# Changelog
-
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
-
 # [1.1.0](https://github.com/alebak/starwars-name/compare/v1.0.1...v1.1.0) (2021-02-19)
 
 
@@ -20,9 +16,12 @@ All notable changes to this project will be documented in this file. See [standa
 
 
 
-# 1.0.0 (2021-02-19)
+# [1.0.0](https://github.com/alebak/starwars-name/compare/3d294d742eeae97947b24627388b2586043cdce9...v1.0.0) (2021-02-19)
 
 
 ### Bug Fixes
 
 * add standard-version ([3d294d7](https://github.com/alebak/starwars-name/commit/3d294d742eeae97947b24627388b2586043cdce9))
+
+
+
