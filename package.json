@@ -6,10 +6,18 @@
   "author": "Alebak <alebak@ximware.com> (https://www.ximware.com/)",
   "license": "MIT",
   "scripts": {
+    "commit": "cz",
     "release": "standard-version"
   },
   "devDependencies": {
+    "commitizen": "4.2.3",
     "conventional-changelog": "3.1.24",
+    "cz-conventional-changelog": "3.2.0",
     "standard-version": "9.1.1"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
