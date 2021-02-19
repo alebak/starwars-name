@@ -1,3 +1,17 @@
+# [1.2.0](https://github.com/alebak/starwars-name/compare/v1.1.0...v1.2.0) (2021-02-19)
+
+
+### Bug Fixes
+
+* add my name into StarWars database ([ae5e9c5](https://github.com/alebak/starwars-name/commit/ae5e9c57da281993ffc9aae8369209af684c0f7d))
+
+
+### Features
+
+* try angular changelog preset with yarn ([3bc08fd](https://github.com/alebak/starwars-name/commit/3bc08fd4d9882ffa42521670f938876e09564bb7))
+
+
+
 # [1.1.0](https://github.com/alebak/starwars-name/compare/v1.0.1...v1.1.0) (2021-02-19)
 
 
