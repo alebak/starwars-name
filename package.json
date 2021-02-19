@@ -8,9 +8,6 @@
   "scripts": {
     "release": "standard-version"
   },
-  "standard-version": {
-    "preset": "angular"
-  },
   "devDependencies": {
     "conventional-changelog": "3.1.24",
     "standard-version": "9.1.1"
