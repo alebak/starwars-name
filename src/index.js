@@ -9,3 +9,5 @@ module.exports = {
 console.log("this is a message from master branch");
 
 console.log("When have I a new release?");
+
+console.log("Ha, ha, ha!!!");
