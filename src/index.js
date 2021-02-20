@@ -7,3 +7,4 @@ module.exports = {
 }
 
 console.log("This a message from develop branch");
+console.log("Other message");
