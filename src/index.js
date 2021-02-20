@@ -18,3 +18,7 @@ console.log("Fix 1 dashboard");
 console.log("Feat 1 dashboard");
 console.log("Feat 2 dashboard");
 console.log("Feat 3 dashboard");
+console.log("Feat 4 dashboard");
+console.log("Feat 5 dashboard");
+
+console.log("Release dashboard feature")
