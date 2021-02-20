@@ -5,3 +5,5 @@ module.exports = {
     all: starWarsNames,
     random: uniqueRandomArray(starWarsNames)
 }
+
+console.log("This a message from develop branch");
