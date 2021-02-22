@@ -1,3 +1,22 @@
+# [1.3.0](https://github.com/alebak/starwars-name/compare/v1.2.1...v1.3.0) (2021-02-22)
+
+
+### Bug Fixes
+
+* **dashboard:** fix a message from dashboard ([4ff1baa](https://github.com/alebak/starwars-name/commit/4ff1baa1c1cdc89faa582560b7c4cfebe9151b49))
+* fix other thing ([fa29e66](https://github.com/alebak/starwars-name/commit/fa29e66203f3facd4082f1ee686b97a60d5f232d))
+* new other message in develop branch ([baeb9d9](https://github.com/alebak/starwars-name/commit/baeb9d9af92f0ce6157a15113e8163e5db4ade55))
+* this a fix from develop branch ([6fd3d30](https://github.com/alebak/starwars-name/commit/6fd3d307f92a4487bf21c0a03b7f8222a28ba608))
+
+
+### Features
+
+* **dashboard:** add an initial message from dashboard feature ([cee041d](https://github.com/alebak/starwars-name/commit/cee041dc202199c2128a610ec4cd8bda7ca6ad5d))
+* **dashboard:** add new features (feat 1, feat 2 and feat 3) ([e714ecb](https://github.com/alebak/starwars-name/commit/e714ecbc2675e595b3723936866b2c4c5b1f44aa))
+* **dashboard:** release dashboard feature ([3ae842e](https://github.com/alebak/starwars-name/commit/3ae842ecc90d4a2f2455882b3937bf1f804ad5a0))
+
+
+
 ## [1.2.1](https://github.com/alebak/starwars-name/compare/v1.2.0...v1.2.1) (2021-02-19)
 
 
