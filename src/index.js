@@ -21,4 +21,6 @@ console.log("Feat 3 dashboard");
 console.log("Feat 4 dashboard");
 console.log("Feat 5 dashboard");
 
-console.log("Release dashboard feature")
+console.log("Release dashboard feature");
+
+console.log("I will fix other thing");
