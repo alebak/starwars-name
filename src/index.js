@@ -6,10 +6,21 @@ module.exports = {
     random: uniqueRandomArray(starWarsNames)
 }
 
-console.log("this is a message from master branch");
+console.log("This a message from develop branch");
+console.log("Other message");
 
-console.log("When have I a new release?");
+console.log("Other message");
 
-console.log("Ha, ha, ha!!!");
+console.log("This is the dashboard feature initial message");
+console.log("Fix 1 dashboard");
 
-console.log("I need a release!!!");
+// Pack dashboar feat
+console.log("Feat 1 dashboard");
+console.log("Feat 2 dashboard");
+console.log("Feat 3 dashboard");
+console.log("Feat 4 dashboard");
+console.log("Feat 5 dashboard");
+
+console.log("Release dashboard feature");
+
+console.log("I will fix other thing");
